@@ -28,7 +28,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author Joako Herrero
  */
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://frontend-mjh.web.app")
 @RequestMapping("/skill")
 public class CHys {
 

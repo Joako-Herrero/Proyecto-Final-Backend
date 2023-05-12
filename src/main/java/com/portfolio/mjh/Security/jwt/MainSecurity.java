@@ -1,7 +1,6 @@
 package com.portfolio.mjh.Security.jwt;
 
-import java.util.Arrays;
-import java.util.Collections;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -15,11 +14,10 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
-import org.springframework.web.cors.CorsConfiguration;
 
 @Configuration
 @EnableWebSecurity
-@EnableMethodSecurity
+@EnableMethodSecurity(prePostEnabled = true)
 public class MainSecurity {
 
     @Autowired
@@ -53,14 +51,7 @@ public class MainSecurity {
 
         http.addFilterBefore(jwtTokenFilter(), UsernamePasswordAuthenticationFilter.class);
 
-        http.cors().configurationSource(request -> {
-            CorsConfiguration corsConfig = new CorsConfiguration();
-            corsConfig.setAllowedOrigins(Collections.singletonList("https://frontend-mjh.web.app"));
-            corsConfig.setAllowedMethods(Arrays.asList("GET", "POST", "DELETE", "PUT", "OPTIONS"));
-            corsConfig.setAllowedHeaders(Collections.singletonList("Content-Type"));
-            return corsConfig;
-        });
-
+       
         return http.build();
     }
 }

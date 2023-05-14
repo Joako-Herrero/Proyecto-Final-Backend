@@ -31,8 +31,8 @@ C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Service\Shys.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Controller\PersonaController.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Entity\Persona.java
-C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Interface\IPersonaService.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Entity\UsuarioPrincipal.java
+C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Dto\dtoPersona.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\jwt\JwtProvider.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\MjhApplication.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Controller\Mensaje.java

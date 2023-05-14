@@ -1,7 +1,6 @@
 com\portfolio\mjh\Controller\CExperiencia.class
 com\portfolio\mjh\Security\jwt\JwtProvider.class
 com\portfolio\mjh\Security\Dto\JwtDto.class
-com\portfolio\mjh\Interface\IPersonaService.class
 com\portfolio\mjh\Security\Dto\NuevoUsuario.class
 com\portfolio\mjh\Entity\Educacion.class
 com\portfolio\mjh\Security\Entity\UsuarioPrincipal.class
@@ -31,6 +30,7 @@ com\portfolio\mjh\MjhApplication.class
 com\portfolio\mjh\Controller\CHys.class
 com\portfolio\mjh\Entity\Persona.class
 com\portfolio\mjh\Security\Controller\AuthController.class
+com\portfolio\mjh\Security\Dto\dtoPersona.class
 com\portfolio\mjh\Security\Repository\IRolRepository.class
 com\portfolio\mjh\Security\Dto\LoginUsuario.class
 com\portfolio\mjh\Security\Service\RolService.class

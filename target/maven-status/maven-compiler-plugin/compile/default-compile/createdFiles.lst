@@ -28,9 +28,9 @@ com\portfolio\mjh\Repository\Rhys.class
 com\portfolio\mjh\Controller\CEducacion.class
 com\portfolio\mjh\MjhApplication.class
 com\portfolio\mjh\Controller\CHys.class
+com\portfolio\mjh\Dto\dtoPersona.class
 com\portfolio\mjh\Entity\Persona.class
 com\portfolio\mjh\Security\Controller\AuthController.class
-com\portfolio\mjh\Security\Dto\dtoPersona.class
 com\portfolio\mjh\Security\Repository\IRolRepository.class
 com\portfolio\mjh\Security\Dto\LoginUsuario.class
 com\portfolio\mjh\Security\Service\RolService.class

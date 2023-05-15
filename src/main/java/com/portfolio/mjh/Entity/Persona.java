@@ -14,7 +14,6 @@ public class Persona {
     
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-   
     private int id;
     
     @NotNull

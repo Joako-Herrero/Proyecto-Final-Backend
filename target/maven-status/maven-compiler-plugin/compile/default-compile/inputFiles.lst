@@ -22,6 +22,7 @@ C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Service\UserDetailsImpl.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Service\RolService.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Dto\dtoEducacion.java
+C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Dto\dtoPersona.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Repository\IUsuarioRepository.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Service\UsuarioService.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Dto\dtoExperiencia.java
@@ -32,7 +33,6 @@ C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Controller\PersonaController.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Entity\Persona.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Entity\UsuarioPrincipal.java
-C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Dto\dtoPersona.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\jwt\JwtProvider.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\MjhApplication.java
 C:\Users\Joako Herrero\Desktop\Futuro\Argentina Programa\Proyecto final\Proyecto-Final\Back End\src\main\java\com\portfolio\mjh\Security\Controller\Mensaje.java
